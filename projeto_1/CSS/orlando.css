@@ -165,6 +165,11 @@ header .header-black li.club-22{
     color: #FFF;
 }
 
+#news{
+    margin-top: -50px;
+    position: relative;
+}
+
 #news h2{
     color: #5E2799;
     font-size: 48px;
@@ -172,11 +177,28 @@ header .header-black li.club-22{
     text-transform: uppercase;
 }
 
+#news hr{
+    border:#FDE192 solid;
+    width: 200px;
+    margin: 0 auto;
+}
 
+#news .thumbnails{
+    margin-top: 20px;
+}
 
+#news .thumbnails h3{
+    color: #5E2799;
+    font-size: 18px;
+    text-align: left;
+    margin-bottom: 0px;
+}
 
-
-
+#news .thumbnails time{
+    color: A7A7A7;
+    font-size: 14px;
+    font-family: sans-serif;
+}
 
 
 
