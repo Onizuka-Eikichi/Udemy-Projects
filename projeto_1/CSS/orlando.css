@@ -145,13 +145,14 @@ header .header-black li.club-22{
     height: 728px;
     background: url(../png/banner.jpg) no-repeat;
     background-size: cover;
-    position: absolute;
-    top: -110;
+    position: relative;
+    top: -110px;
 
 }
 
 #banner h1{
-    margin-top: 300px;
+    top: 300px;
+    position: relative;
     font-size: 92;
     color: #FFF;
     text-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
@@ -163,3 +164,30 @@ header .header-black li.club-22{
     display: block;
     color: #FFF;
 }
+
+#news h2{
+    color: #5E2799;
+    font-size: 48px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
