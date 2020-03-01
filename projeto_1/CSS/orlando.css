@@ -155,7 +155,7 @@ header .header-black li.club-22{
     position: relative;
     font-size: 92;
     color: #FFF;
-    text-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
     font-family: sans-serif;
     margin-left: 90px;
 }
