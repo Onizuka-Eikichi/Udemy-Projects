@@ -275,3 +275,45 @@ header .header-black li.club-22{
     margin: 0 auto;
     max-width: 400px;
 }
+
+footer {
+    margin-top: 110px;
+
+}
+
+footer .edt {
+    width: 100%;
+}
+
+footer .edt p {
+    line-height: 60px;
+    margin-bottom: 0;
+
+}
+
+footer .row-cinza-claro {
+    height: 200px;
+    background-color: #171F26;
+}
+
+footer .row-cinza-escuro {
+    height: 60px;
+    background-color: #11171D;
+    border-top: #242D37 1px solid;
+}
+
+footer .text-direita {
+    color: #623291;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+footer .text-esquerda {
+    color: #666;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+
+}
