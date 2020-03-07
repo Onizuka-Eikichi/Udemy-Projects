@@ -317,3 +317,41 @@ footer .text-esquerda {
     font-size: 16px;
 
 }
+
+footer .logotipo-footer {
+    margin-top: 20px;
+}
+
+footer .col-popular-post,
+footer .col-links,
+footer .col-get-in-touch {
+    margin-top: 40px;
+}
+
+footer .row-col10-footer h4 {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #FFF;
+    padding-bottom: 17px;
+    border-bottom: #242D37 1px solid;
+}
+
+footer .row-col10-footer h5 {
+    color: #666;
+    font-family: Arial;
+    font-size: 14px;
+    margin: 0 auto;
+}
+
+footer .row-col10-footer time {
+    color: #FDE092;
+    font-family: Arial;
+    font-size: 14px;
+
+}
+
+footer .col-links a {
+    color: #FFF;
+    font-family: Arial;
+    font-size: 14px;
+}
