@@ -350,8 +350,62 @@ footer .row-col10-footer time {
 
 }
 
+footer .col-get-in-touch a,
 footer .col-links a {
     color: #FFF;
     font-family: Arial;
     font-size: 14px;
+}
+
+footer .col-links .fa {
+    margin: 0 6px;
+}
+
+footer .col-get-in-touch address {
+    color: #666;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+footer .col-get-in-touch address span {
+    display: inline-block;
+}
+
+footer .col-get-in-touch i {
+    color: #9B9B9B;
+    font-size: 20px;
+    margin: 0 6px;
+}
+
+footer .col-get-in-touch address i {
+    position: relative;
+    top: -14px;
+}
+
+footer .col-get-in-touch p {
+    line-height: 20px;
+}
+
+footer .list-social {
+    margin-top: 4px;
+
+}
+
+footer .list-social li {
+    display: inline-block;
+}
+
+footer .list-social a {
+    display: block;
+    border: #9B9B9B 1px solid;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    border-radius: 14px;
+    text-align: center;
+}
+
+footer .list-social i {
+    font-size: 16px;
+    margin: 7px auto;
 }
