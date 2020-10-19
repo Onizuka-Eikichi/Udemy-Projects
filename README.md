@@ -1,2 +1,2 @@
 # Udemy-Projects
-This project was created with the purpose of study only.
+This project was created for study.
